@@ -7,3 +7,6 @@
 
 ## [0.0.3] - 2020-04-26
 * Remove unused description on lib
+
+## [0.0.4] - 2020-04-26
+* Fix issue of import on lib
