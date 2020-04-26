@@ -1,6 +1,9 @@
 # nepninja
 Reuse the beautiful animated widgets with less effort
 
+## Sample
+![](https://github.com/khadkarajesh/nepninja/blob/master/assets/images/circular_animated_button.gif)
+
 ## Usage
 
 ```dart
