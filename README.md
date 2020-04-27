@@ -31,3 +31,5 @@ Reuse the beautiful animated widgets with less effort
 
 ```
 
+## Article
+You can read further more detail about implementation over this [article](https://medium.com/@rajesh_khadka/flutter-animation-challenge-1-5ce9bed65161).
